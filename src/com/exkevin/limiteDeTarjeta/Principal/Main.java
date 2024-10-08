@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-
+        //Se podra realizar el commi?dsdssd
         var entrada = new Scanner(System.in);
 
         var valortotal = 0.0;
